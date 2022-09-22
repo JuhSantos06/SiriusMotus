@@ -1,0 +1,143 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.logo img{
+    max-width: 250px;
+    max-height: 160px
+}
+
+.nav-link{
+    text-align: center;
+    font-size: 25px;
+    display: inline-block;
+    margin: 0px 0px 0px 158px;
+    
+}
+
+.form-inline{
+    text-align: right;
+    margin-left: 200px;
+}
+
+.container h1{
+    text-align: center;
+    margin: 0px 0px 90px 600px;
+    font-size: 30;
+    color: white;
+}
+
+.container{
+    
+    margin: 0px 0px 0px 50px;
+    color: white;
+    font-size: 20px;
+    
+ }
+
+ section.banner
+{
+    min-height: 800px;
+    background-image: url('../img/banner.jpg');
+    width: 100%;
+    background-size: cover;
+    
+}
+
+.sobre h1{
+    text-align: center;
+   
+}
+
+
+
+.card{
+    display:inline-block;
+    margin: 80px 60px 60px 150px;
+   
+}
+
+.container2{
+    display: inline-block;
+    
+}
+
+.contato h1 {
+    text-align: center;
+    color: white;
+}
+
+.form-group{
+    background-color: black;
+}
+
+.form-row{
+    color: white;
+}
+
+.contato{
+    background-color: black;
+    color: white;
+}
+
+.tutorial{
+    background-color: black;
+    
+}
+
+
+.tutorial h1{
+    color:white;
+    text-align: center;
+    
+}
+
+.tutorial p{
+    color: white;
+    text-align: center;
+    margin-top: 60px;
+    font-family: sans-serif;
+}
+
+.yt{
+   text-align: center;
+   margin-top: -90px;
+   margin-top: 30px;
+    }
+
+.fazemos p{
+    margin-left: 300px;
+    margin-top: 30px;
+    display:inline-block;
+    font-size: 22px;
+}
+
+.fazemos h1{
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom:40px;
+}
+
+.fazemos img{
+        max-width: 400px;
+        max-height: 350px;
+        display: inline-block;
+        margin-left: 500px;
+        margin-bottom: 40px;
+    }
+
+    .footer{
+        background-color: black;
+        text-align: center;
+        color: white;
+    }
+
+    .rd{
+        color: white;
+        background-color: black;
+        text-align: center;
+    }
